@@ -1,7 +1,6 @@
 # YACS
 ## Final BD Project
-
-Team ID BD_0372_1554_1872_1889
+Yet Another Centralized Scheduler(YACS) is a multithreaded centralized scheduler that follows master worker architecture.
 
 ### Libraries required
 Numpy,
