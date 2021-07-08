@@ -38,8 +38,8 @@ python3 analysis.py
 For visualization
 
 ### Team
-  * Devika S Nair - @smartspinner
-  * Prathima B - @prathima-b
-  * Ramya C P - @RAMYA-CP
-  * Mitravinda K M - @mitravinda462
+  * Devika S Nair - [@smartspinner](https://github.com/smartspinner)
+  * Prathima B - [@prathima-b](https://github.com/prathima-b)
+  * Ramya C P - [@RAMYA-CP](https://github.com/RAMYA-CP)
+  * Mitravinda K M - [@mitravinda462](https://github.com/mitravinda462)
 
